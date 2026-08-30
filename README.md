@@ -1,23 +1,24 @@
-<h1 align="center">💠 ¡Hola! 👋 Soy Alejandro</h1>
+<h1 align="center">🟣 ¡Hola! 👋 Soy Alejandro</h1>
 <p align="center">
   <b>Anime Lover & Web Developer</b><br>
-  Creo experiencias web ultra-ligeras con alma otaku
+  <i>"I am Atomic... y creador de experiencias web ultra-ligeras."</i>
 </p>
 
 <div align="center">
-  <img width="650" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3psY3R6Z3RxaHNreG1pNHR6OHI1M2E4Mm15aTNidTRvOHZ5a2JtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S92wTYF3N35E4/giphy.gif" alt="Satoru Gojo">
+  <img width="650" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZmV3MG9yNnhxZHE2eW5yeDRmd3kyejZxdTBidTJ3bXRxY3YwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq7h2m6S3l0F2xT9nO/giphy.gif" alt="Shadow - The Eminence in Shadow">
 </div>
 
 <br>
 
 ---
 
-### 🌸 Sobre mí
+### 🔮 Sobre mí | Shadow Garden Style
 
-- 📺 **Viendo ahora:** *86: Eighty-Six* / *Jujutsu Kaisen*
-- 🚀 **Proyecto principal:** [**AniPulse**](https://github.com/alejandrodmc2011-lang) — Plataforma web de anime con APIs de AniList & Jikan, Firebase y notificaciones push
+- 🗡️ **Viendo ahora:** *The Eminence in Shadow* / *86: Eighty-Six*
+- 🔮 **Proyecto principal:** [**AniPulse**](https://github.com/alejandrodmc2011-lang) — Plataforma web de anime con APIs de AniList & Jikan, Firebase y notificaciones push
 - 🛠️ **Setup:** VS Code · Themes: *One Dark Pro* / *Synthwave '84*
-- ⚡ **Filosofía:** Desarrollo web ultra-ligero (HTML, CSS y Vanilla JS sin frameworks pesados)
+- ⚡ **Filosofía:** Código ultra-ligero y optimizado (HTML, CSS y Vanilla JS sin frameworks pesados)
+- 🌌 **Frase:** *"We lurk in the shadows to hunt the shadows..."*
 - 📫 **Contacto:** alejandrodmc2011@gmail.com
 
 ---
@@ -30,7 +31,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com">
-    <img width="600" height="auto" src="https://novatorem2-nu.vercel.app/api/orchestrator?background_color=0d1117&border_color=FFA2FE" alt="Currently Playing" />
+    <img width="600" height="auto" src="https://novatorem2-nu.vercel.app/api/orchestrator?background_color=0d1117&border_color=8A2BE2" alt="Currently Playing" />
   </a>
 </div>
 
@@ -53,11 +54,11 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas (Shadow Theme)
 
 <div align="center">
-  <img width="460" src="https://github-readme-stats.vercel.app/api?username=alejandrodmc2011-lang&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodmc2011-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="460" src="https://github-readme-stats.vercel.app/api?username=alejandrodmc2011-lang&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true&bg_color=0d1117" />
+  <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodmc2011-lang&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" />
 </div>
 
 ---
@@ -75,10 +76,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9zbTV5bnpmc2R4YTFzaWl4enB2cTh3eWppZGplOHI2NWNneDFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/131v0U3odL5Z3W/giphy.gif" width="380" height="auto">
-</div>
-
 <p align="center">
-  <i>“El código limpio es como un buen anime: fluido, impactante y sin relleno innecesario.”</i>
+  <i>“El código limpio es como la magia de Shadow: potente, elegante y sin relleno innecesario.”</i>
 </p>
