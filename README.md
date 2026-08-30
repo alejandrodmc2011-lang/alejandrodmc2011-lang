@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- GIF directo de Shadow (The Eminence in Shadow) -->
-  <img width="600" height="auto" src=".gif" alt="Shadow - The Eminence in Shadow">
+  <img width="600" height="auto" src="eminence-in-shadow-shadow.gif" alt="Shadow - The Eminence in Shadow">
 </div>
 
 <br>
