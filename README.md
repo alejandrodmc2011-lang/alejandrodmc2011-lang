@@ -30,8 +30,8 @@
 </p>
 
 <div align="center">
-  <a href="https://open.spotify.com">
-    <img width="500" height="auto" src="https://spotify-recently-played-readme.vercel.app/api?user=alejandro&theme=dark" alt="Currently Playing" />
+  <a href="https://open.spotify.com/intl-es/album/18dN7PBsuOpPrKhX654Cb6?uid=31354422244ccabb&uri=spotify%3Atrack%3A1aBAEW1ZOd6bqugQif6tVx">
+    <img width="500" height="auto" src="[https://spotify-recently-played-readme.vercel.app/api?user=alejandro&theme=dark](https://open.spotify.com/intl-es/album/18dN7PBsuOpPrKhX654Cb6?si=dP63iVlaQHioS-Ld4hLKbw)" alt="Currently Playing" />
   </a>
 </div>
 
