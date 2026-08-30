@@ -26,12 +26,12 @@
 ### 🎧 Escuchando ahora
 
 <p align="center">
-  <b>🔥 MAMACITA - Slowed / Super Slowed (Kverz) 🔥</b>
+  <b>🔥 FUNK DO IENAI - KPHK 🔥</b>
 </p>
 
 <div align="center">
-  <a href="https://open.spotify.com/intl-es/album/18dN7PBsuOpPrKhX654Cb6?si=WZvaCCunQDGvur5N12Fr8g" target="_blank">
-    <img width="500" height="auto" src="https://spotify-recently-played-readme.vercel.app/api?user=alejandro&theme=dark" alt="Currently Playing" />
+  <a href="https://open.spotify.com/intl-es/album/18dN7PBsuOpPrKhX654Cb6" target="_blank">
+    <img width="500" height="auto" src="https://spotify-recently-played-readme.vercel.app/api?user=31fw2qpz5uk622g3iveuulzj2xrm&theme=dark" alt="Currently Playing" />
   </a>
 </div>
 
