@@ -1,12 +1,11 @@
-<h1 align="center">🟣 ¡Hola! 👋 Soy Alejandro</h1>
+<h1 align="center">¡Hola! 👋 Soy Alejandro</h1>
 <p align="center">
   <b>Anime Lover & Web Developer</b><br>
-  <i>"I am Atomic... y creador de experiencias web ultra-ligeras."</i>
 </p>
 
 <div align="center">
   <!-- GIF directo de Shadow (The Eminence in Shadow) -->
-  <img width="600" height="auto" src="https://media.tenor.com/tYt611J1fNMAAAAC/the-eminence-in-shadow-shadow.gif" alt="Shadow - The Eminence in Shadow">
+  <img width="600" height="auto" src=".gif" alt="Shadow - The Eminence in Shadow">
 </div>
 
 <br>
