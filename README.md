@@ -55,7 +55,7 @@
   <a href="https://github.com/alejandrodmc2011-lang" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com" target="_blank">
+  <a href="[https://www.tiktok.com](https://www.tiktok.com/@kaix.cc?is_from_webapp=1&sender_device=pc)" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </div>
@@ -64,7 +64,7 @@
 
 <div align="center">
   <!-- GIF Secundario de Shadow -->
-  <img width="450" height="auto" src="https://media.tenor.com/c1h5N98kR70AAAAC/the-eminence-in-shadow-cid-kagenou.gif" alt="Cid Kagenou">
+  <img width="450" height="auto" src="shadow.gif" alt="Cid Kagenou">
 </div>
 
 <p align="center">
