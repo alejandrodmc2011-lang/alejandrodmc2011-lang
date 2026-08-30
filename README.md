@@ -5,7 +5,8 @@
 </p>
 
 <div align="center">
-  <img width="650" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZmV3MG9yNnhxZHE2eW5yeDRmd3kyejZxdTBidTJ3bXRxY3YwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq7h2m6S3l0F2xT9nO/giphy.gif" alt="Shadow - The Eminence in Shadow">
+  <!-- GIF directo de Shadow (The Eminence in Shadow) -->
+  <img width="600" height="auto" src="https://media.tenor.com/tYt611J1fNMAAAAC/the-eminence-in-shadow-shadow.gif" alt="Shadow - The Eminence in Shadow">
 </div>
 
 <br>
@@ -31,7 +32,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com">
-    <img width="600" height="auto" src="https://novatorem2-nu.vercel.app/api/orchestrator?background_color=0d1117&border_color=8A2BE2" alt="Currently Playing" />
+    <img width="500" height="auto" src="https://spotify-recently-played-readme.vercel.app/api?user=alejandro&theme=dark" alt="Currently Playing" />
   </a>
 </div>
 
@@ -57,8 +58,8 @@
 ### 📊 Estadísticas (Shadow Theme)
 
 <div align="center">
-  <img width="460" src="https://github-readme-stats.vercel.app/api?username=alejandrodmc2011-lang&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true&bg_color=0d1117" />
-  <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodmc2011-lang&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=alejandrodmc2011-lang&show_icons=true&locale=es&theme=synthwave&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrodmc2011-lang&layout=compact&theme=synthwave&hide_border=true" />
 </div>
 
 ---
@@ -75,6 +76,11 @@
 </div>
 
 <br>
+
+<div align="center">
+  <!-- GIF Secundario de Shadow -->
+  <img width="450" height="auto" src="https://media.tenor.com/c1h5N98kR70AAAAC/the-eminence-in-shadow-cid-kagenou.gif" alt="Cid Kagenou">
+</div>
 
 <p align="center">
   <i>“El código limpio es como la magia de Shadow: potente, elegante y sin relleno innecesario.”</i>
